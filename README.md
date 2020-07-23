@@ -1,4 +1,4 @@
- Ứng dụng từ bài:<a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/">Đối tượng Intent trong Android Phần 2</a>
+ # # Ứng dụng từ bài: <a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/">Đối tượng Intent trong Android Phần 2</a>
 
 <a href="https://github.com/ntson2110/hello">Làm quen môi trường Android</a>
 
@@ -12,7 +12,7 @@
 
 <a href="https://github.com/ntson2110/ImplicitIntent">Đối tượng Intent trong Android Phần 2</a>
 
-<a href="https://github.com/ntson2110/SendBroadcat">Đối tượng Intent trong Android Phần 3</a>
+<a href="https://github.com/ntson2110/SendBroadca">Đối tượng Intent trong Android Phần 3</a>
 
 <a href="https://github.com/ntson2110/CommonGestures">Phát hiện cử chỉ người dùng </a>
 
